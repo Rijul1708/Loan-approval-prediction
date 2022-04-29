@@ -1,4 +1,4 @@
-# Loan-approval-prediction
+# Loan-approval-prediction(question statement )
 
 * A bank has recently started generating leads through digital channels to cope with the marketing strategy of competitor banks.
 * They source leads through various channels like search, display, email campaigns and via affiliate partners.The bank staff is not able to prioritize the leads that are   more likely to get converted into their customers. 
